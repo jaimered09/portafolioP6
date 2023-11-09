@@ -1,0 +1,62 @@
+
+.NavbarItem a {
+    color: #000; /* Default link color */
+    text-decoration: none; /* Remove underline by default */
+  }
+  
+  /* Style for link when hovered */
+  .NavbarItem a:hover {
+    color: #007bff; /* Change link color on hover */
+    text-decoration: underline; /* Add underline on hover */
+  }
+  
+  /* Style for link when active (if needed) */
+  .NavbarItem a:active {
+    color: #ff5733; /* Change link color when active (clicked) */
+    /* You can customize this as per your design */
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+.navbar {
+    background: #909090;
+    justify-content: left;
+    display: flex;
+    padding: 0 7rem;
+    align-items: center;
+
+}
+
+.navbar ul {
+    margin-left: 20px;
+    display:flex;
+    gap: 1rem;
+}
+
+.navbar ul li {
+    list-style: none;
+}
+
+.navbar:hover {
+    background-color: #555;
+    color: #fff; 
+    cursor: pointer; 
+}
+
+.navbar ul li:active {
+    background-color: #333; 
+    color: #fff;
+} */
